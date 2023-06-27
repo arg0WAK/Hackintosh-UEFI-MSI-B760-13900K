@@ -81,6 +81,71 @@ This repo contains configuration and bootloader files that fully support macOS 1
 
 ### 1.2 BIOS
 
+ <table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+ Property
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+ Status
+</p>
+</th>
+</tr>
+ <tr>
+      <td>Secure Boot</td>
+      <td><strong>Disabled</strong></td>
+    </tr>
+    <tr>
+      <td>Fast Boot</td>
+      <td><strong>Disabled</strong></td>
+    </tr>
+    <tr>
+      <td>MSI Fast Boot</td>
+      <td><strong>Disabled</strong></td>
+    </tr>
+    <tr>
+      <td>Re-Size BAR Support</td>
+      <td><strong>Disabled</strong></td>
+    </tr>
+    <tr>
+      <td>Initiate Graphic Adapter</td>
+      <td><strong>[PEG]</strong></td>
+    </tr>
+    <tr>
+      <td>Integrated Graphics Share Memory</td>
+      <td><strong>[64M]</strong></td>
+    </tr>
+    <tr>
+      <td>IGD Multi Monitor</td>
+      <td><strong>Enabled</strong></td>
+    </tr>
+    <tr>
+      <td>Discrete Thunderbolt(TM) Support</td>
+      <td><strong>Disabled</strong></td>
+    </tr>
+    <tr>
+      <td>XHCI Hand-Off</td>
+      <td><strong>Enabled</strong></td>
+    </tr>
+    <tr>
+      <td>Legacy USB Support</td>
+      <td><strong>Enabled</strong></td>
+    </tr>
+    <tr>
+      <td>BIOS CSM/UEFI Mode</td>
+      <td><strong>[UEFI]</strong></td>
+    </tr>
+    <tr>
+      <td>Above 4G Memory</td>
+      <td><strong>Enabled</strong></td>
+    </tr>
+</table>
+
 # 2. ACPI (Advanced Configuration and Power Interface)
 
 ### 2.1 Introduction
