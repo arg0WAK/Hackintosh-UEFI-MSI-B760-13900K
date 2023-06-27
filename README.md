@@ -169,7 +169,7 @@ The following items are required for motherboards after B300 series
 Below are also the configurations that should be used for USB port processes on the MSI B760 motherboard. If you are going to install directly on the same model, you can use the USBMap.kext file defined in the configuration file and the SSDT-EC-USBX.aml configuration. If you are trying to install on a different motherboard, please make sure you have mapped to your motherboard model. Before proceeding, make sure your power management is properly configured and XCPM is installed. For detailed information see:
 
 - [USBMapping Method 1](https://dortania.github.io/OpenCore-Post-Install/usb/manual/manual.html#usb-mapping-the-manual-way)
-- [USBMapping 2 Method **[Highly Recommended 🌟]**](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html)
+- [USBMapping Method 2 **[Highly Recommended 🌟]**](https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html)
 
 (Don't forget! All Mac hardware only has 15 USB ports.)
 
