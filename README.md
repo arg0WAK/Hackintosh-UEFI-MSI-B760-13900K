@@ -158,7 +158,7 @@ If you want see more than about for ACPI you can check that: [UEFI.ORG](https://
 
 DSDT's & SSDT's are tables present in your firmware that outline hardware devices like USB controllers, CPU threads, embedded controllers, system clocks and such. A DSDT(Differentiated System Description Table) can be seen as the body holding most of the info with smaller bits of info being passed by the SSDT(Secondary System Description Table).
 
-The following items are required for motherboards after B300 series
+The following items are required for motherboards later B300 series
 
 - ACPI/SSDT-EC-USBX.aml
 - ACPI/SSDT-AWAC.aml
