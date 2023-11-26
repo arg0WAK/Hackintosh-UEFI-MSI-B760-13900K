@@ -3,7 +3,7 @@
 This repo contains configuration and bootloader files that fully support macOS 12.6.5 Monterey & Ventura 13.4.1 (22F82) with on MSI B760 motherboard and 13900k processor.
 
 <p align="center">
-<img src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/3618593012349.png'>
+<img src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/3618593012349.png/'>
 </p>
 
 # 1. Preparation
