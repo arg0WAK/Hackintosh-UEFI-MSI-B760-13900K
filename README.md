@@ -13,13 +13,13 @@
  <table>
 <tr>
 <th align="center">
-<img width="441" height="1" class="filter">
+<img class="filter" width="441" height="1"></img>
 <p> 
  Device
 </p>
 </th>
 <th align="center">
-<img width="441" height="1" class="filter">
+<img class="filter" width="441" height="1"></img>
 <p> 
  Working
 </p>
@@ -84,13 +84,13 @@
  <table>
 <tr>
 <th align="center">
-<img width="441" height="1" class="filter">
+<img class="filter" width="441" height="1"></img>
 <p> 
  Property
 </p>
 </th>
 <th align="center">
-<img width="441" height="1" class="filter">
+<img class="filter" width="441" height="1"></img>
 <p> 
  Status
 </p>
