@@ -13,13 +13,13 @@
  <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="441" height="1" class="filter">
 <p> 
  Device
 </p>
 </th>
 <th align="center">
-<img width="441" height="1">
+<img width="441" height="1" class="filter">
 <p> 
  Working
 </p>
