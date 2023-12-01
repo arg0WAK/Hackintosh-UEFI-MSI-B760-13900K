@@ -2,9 +2,9 @@
 
 <p class="filter">This repo contains configuration and bootloader files that fully support macOS 12.6.5 Monterey & Ventura 13.4.1 (22F82) with on MSI B760 motherboard and 13900k processor.</p>
 
-<p align="center">
-<img src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/3618593012349.png'>
-</p>
+<div align="center">
+<img alt="System Overview" src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/3618593012349.png'>
+</div>
 
 # 1. Preparation
 
@@ -75,9 +75,9 @@
     </tr>
 </table>
 
-<p align="center">
-<img src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/6379423821685.png'>
-</p>
+<div align="center">
+<img alt="Hardware List" src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/6379423821685.png'>
+</div>
 
 ### 1.2 BIOS
 
@@ -195,9 +195,9 @@ This kernel extension is produced with the CPUFriend.command file. After perform
 For more information about CPUFriend, visit this link.
 [CPUFriend on Github](https://github.com/corpnewt/CPUFriendFriend)
 
-<p align="center">
-<img style="height: 650px" src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png'>
-</p>
+<div align="center">
+<img style="height: 650px" alt="Intel Power Gadget" src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png'>
+</div>
 
 `Kexts/RestrictEvents.kext`
 The following driver is for CPUName Commander.
