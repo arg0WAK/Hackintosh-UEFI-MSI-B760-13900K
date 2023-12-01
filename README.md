@@ -196,7 +196,7 @@ For more information about CPUFriend, visit this link.
 [CPUFriend on Github](https://github.com/corpnewt/CPUFriendFriend)
 
 <p align="center">
-<img height="650px" src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png'>
+<img style="height: 650px" src='https://raw.githubusercontent.com/barisalby/gist/main/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png'>
 </p>
 
 `Kexts/RestrictEvents.kext`
