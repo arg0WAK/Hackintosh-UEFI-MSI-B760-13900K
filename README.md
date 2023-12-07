@@ -3,7 +3,7 @@
 <p class="filter">This repo contains configuration and bootloader files that fully support macOS 12.6.5 Monterey & Ventura 13.4.1 (22F82) with on MSI B760 motherboard and 13900k processor.</p>
 
 <div align="center">
-<img alt="System Overview" src='https://barisalby.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/3618593012349.png'>
+<img alt="System Overview" src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/3618593012349.png'>
 </div>
 
 
@@ -77,7 +77,7 @@
 </table>
 
 <div align="center">
-<img alt="Hardware List" src='https://barisalby.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/6379423821685.png'>
+<img alt="Hardware List" src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/6379423821685.png'>
 </div>
 
 ### 1.2 BIOS
@@ -197,7 +197,7 @@ For more information about CPUFriend, visit this link.
 [CPUFriend on Github](https://github.com/corpnewt/CPUFriendFriend)
 
 <div align="center">
-<img style="height: 650px" alt="Intel Power Gadget" src='https://barisalby.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png'>
+<img style="height: 650px" alt="Intel Power Gadget" src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png'>
 </div>
 
 `Kexts/RestrictEvents.kext`
@@ -221,7 +221,7 @@ If you are using a different motherboard model, implement this instead of `USBMa
 ### 2.3 PCI-Root Locations
 
 <p align="center">
-<img src='https://barisalby.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/5109602835010.png'>
+<img src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/5109602835010.png'>
 </p>
 The PCI location paths of the components on your motherboard may differ from the paths in the config.plist in the repository you pulled. For the most accurate PCI root location path mapping, you can get help from the Device Manager page in your system's Windows operating system, if available. Alternatively, you can try export log output of PCI Devices via `OpenShell.efi`.
 
@@ -276,9 +276,9 @@ All SMBIOS information in config file has been removed for security. Please use 
 
 # 4. Benchmark Results
 
-[RX580 Benchmark on GeekBench 6](https://barisalby.github.io/benchmarks/RX580.html)
+[RX580 Benchmark on GeekBench 6](https://arg0wak.github.io/benchmarks/RX580.html)
 
-[i9-13900k Benchmark on GeekBench 6](https://barisalby.github.io/benchmarks/13900K.html)
+[i9-13900k Benchmark on GeekBench 6](https://arg0wak.github.io/benchmarks/13900K.html)
 
 **IMPORTANT**: The i9-13900k test results give lower values compared to the results of a 13900k running at full performance. This is due to the fact that the processor is not run at full speed in line with user preference. Overclock your CPUFriend settings for truly satisfying results.
 
