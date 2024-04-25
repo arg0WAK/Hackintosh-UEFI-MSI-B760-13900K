@@ -1,8 +1,8 @@
 <h1 class="remove">Hackintosh-UEFI-MSI-B760-13900K</h1>
 
-<p class="remove">
-  This repo contains configuration and bootloader files that fully support macOS
-  14.4 Sonoma (23E214) with on MSI B760 motherboard and 13900k processor.
+<p class="remove">This repo contains 
+  configuration and bootloader files that fully support macOS 14.4 
+  Sonoma (23E214) with on MSI B760 motherboard and 13900k processor.
 </p>
 
 <div class="frame" align="center">
@@ -244,7 +244,7 @@
     src="https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/7207740433699.png"
   />
 </div>
-
+<br/>
 <p>
   <code>Kexts/RestrictEvents.kext</code> The following driver is for CPUName
   Commander.
@@ -282,18 +282,18 @@
     >OpenIntelWireless</a
   >
 </p>
-<br />
 <h3>2.3 PCI-Root Locations</h3>
 <div class="frame" align="center">
   <img
     src="https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/5109602835010.png"
   />
 </div>
-The PCI location paths of the components on your motherboard may differ from the
+<br/>
+<p>The PCI location paths of the components on your motherboard may differ from the
 paths in the config.plist in the repository you pulled. For the most accurate
 PCI root location path mapping, you can get help from the Device Manager page in
 your system's Windows operating system, if available. Alternatively, you can try
-export log output of PCI Devices via
+export log output of PCI Devices via</p>
 <code>OpenShell.efi</code>.
 <br /><br />
 <p>
