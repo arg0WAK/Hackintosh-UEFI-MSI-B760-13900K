@@ -2,7 +2,7 @@
 
 <p class="filter">This repo contains configuration and bootloader files that fully support macOS 14.4 Sonoma (23E214) with on MSI B760 motherboard and 13900k processor.</p>
 
-<div align="center">
+<div class="frame" align="center">
 <img alt="System Overview" src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/71785754712151.png'>
 </div>
 
@@ -76,7 +76,7 @@
     </tr>
 </table>
 
-<div align="center">
+<div class="frame" align="center">
 <img alt="Hardware List" src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/6379423821685.png'>
 </div>
 
@@ -220,9 +220,9 @@ If you are using a different motherboard model, implement this instead of `USBMa
 
 ### 2.3 PCI-Root Locations
 
-<p align="center">
+<div  align="center">
 <img src='https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/5109602835010.png'>
-</p>
+</div>
 The PCI location paths of the components on your motherboard may differ from the paths in the config.plist in the repository you pulled. For the most accurate PCI root location path mapping, you can get help from the Device Manager page in your system's Windows operating system, if available. Alternatively, you can try export log output of PCI Devices via `OpenShell.efi`.
 
 For this reason you may sure completely deleted all PCI devices on config.plist files.
