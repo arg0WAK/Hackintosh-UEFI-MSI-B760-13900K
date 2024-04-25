@@ -206,7 +206,6 @@
   </li>
 </ul>
 <p>(Don't forget! All Mac hardware only has 15 USB ports.)</p>
-<br />
 <h3>2.2 Kexts (Kernel Extensions)</h3>
 <p>
   The so-called kernel extension file is actually what we usually call a driver.
