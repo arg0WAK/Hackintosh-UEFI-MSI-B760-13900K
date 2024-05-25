@@ -18,7 +18,9 @@
   <tbody>
     <tr>
       <th align="center">
-        <img class="remove" width="441" height="1" />
+        <div class="remove">
+          <img width="441" height="1" />
+        </div>
         <p>Device</p>
       </th>
       <th align="center">
