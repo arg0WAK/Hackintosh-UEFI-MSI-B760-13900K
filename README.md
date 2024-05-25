@@ -92,11 +92,15 @@
   <tbody>
     <tr>
       <th align="center">
-        <img class="remove" width="441" height="1" />
+        <span>
+          <img width="441" height="1" />
+        </span>
         <p>Property</p>
       </th>
       <th align="center">
-        <img class="remove" width="441" height="1" />
+        <span>
+          <img width="441" height="1" />
+        </span>
         <p>Status</p>
       </th>
     </tr>
