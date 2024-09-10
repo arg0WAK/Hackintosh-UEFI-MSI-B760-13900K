@@ -7,7 +7,7 @@
 <div class="frame" align="center">
   <img
     alt="System Overview"
-    src="https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/71785754712151.png"
+    src="https://arg0wak.github.io/gist/images/Hackintosh-UEFI-MSI-B760-13900K/976751366767.png"
   />
 </div>
 
