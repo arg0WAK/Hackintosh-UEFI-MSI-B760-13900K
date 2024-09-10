@@ -1,7 +1,7 @@
 <h1>Hackintosh-UEFI-MSI-B760-13900K</h1>
 
 <span>
-  <p>This repo contains configuration and bootloader files that fully support macOS 14.4 Sonoma (23E214) with on MSI B760 motherboard and 13900k processor.</p>
+  <p>This repo contains configuration and bootloader files that fully support macOS 14.6.1 Sonoma (23G93) with on MSI B760 motherboard and 13900k processor.</p>
 </span>
 
 <div class="frame" align="center">
